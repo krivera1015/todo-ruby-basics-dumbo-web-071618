@@ -1,5 +1,3 @@
-require "pry"
-
 def division(num1, num2)
   return num1/num2
 end
@@ -27,4 +25,3 @@ end
 def pizza_party
 
 end
-binding.pry
